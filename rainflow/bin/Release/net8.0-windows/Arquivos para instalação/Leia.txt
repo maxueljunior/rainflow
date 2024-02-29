@@ -1,0 +1,5 @@
+##### INSTRUÇÕES #####
+
+1º - Instale o windowsdesktop-runtime-8.0.2-win-x64.exe.
+2º - Instale o python-3.12.1-amd64.exe deixando o mesmo no disco C:\ onde irá criar uma pasta C:\Python312.
+3º - Abra o CMD e digite pip install rainflow.
